@@ -1,0 +1,1 @@
+C:\Users\crist\Downloads\MiApp\MiApp\MiApp.csproj;x64

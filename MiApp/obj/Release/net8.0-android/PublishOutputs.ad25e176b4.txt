@@ -1,0 +1,3 @@
+C:\Users\crist\Downloads\MiApp\MiApp\bin\Release\net8.0-android\publish\com.companyname.miapp-Signed.apk
+C:\Users\crist\Downloads\MiApp\MiApp\bin\Release\net8.0-android\publish\com.companyname.miapp.apk
+C:\Users\crist\Downloads\MiApp\MiApp\bin\Release\net8.0-android\publish\_Microsoft.Android.Resource.Designer.dll
